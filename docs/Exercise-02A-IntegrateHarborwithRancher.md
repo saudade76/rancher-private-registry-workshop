@@ -2,6 +2,8 @@
 
 This exercise is independent from Exercise 1. We'll create a new secerets for Registries in Rancher. 
 
+# // Harbor 정보 Secret 으로 저장 실습
+
 ###### Usecase: Ease of access without doubting the authenticity of container images makes oprtaions smooth and effortless. Rancher supports integration of public, private, containerd mirroring and registry authentication.  
 
 ## Action 1: Integrate Harbor
