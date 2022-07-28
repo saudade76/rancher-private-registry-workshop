@@ -4,6 +4,8 @@ This exercise will continue from the previous Exercise 2B. We'll deploy a sample
 
 # // Public 설치된 Harbor 에서 Hello-World container 이미지를 가져와서 Rancher 를 통해서 Deployment 수행
 ![image](https://user-images.githubusercontent.com/74942851/181430262-dbfdae46-73a3-45c3-a6eb-1838c998aecb.png)
+![image](https://user-images.githubusercontent.com/74942851/181430950-d3e255f7-105f-4d94-b1e6-855e8f450c80.png)
+
 
 
 
