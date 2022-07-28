@@ -2,7 +2,7 @@
 
 In this exercise, we are login to the harbor portal and using native scanning tool Trivy for vulnarabilities. It has 2 main steps loging the harbor portal and scanning pre-loaded container image for vulnarabilities. 
 
-SUSE Public Repository 에서 Image 가져오고, Scan 해보는 실습
+# SUSE Public Repository 에서 Image 가져오고, Scan 해보는 실습
 
 ###### Usecase: With the growing awareness about supply chain security, it is important to gain visibility into the software components used in the application. Scanning container images gives insight about the known vulnarabilities and and related fixes.   
 
