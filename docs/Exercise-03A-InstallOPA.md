@@ -2,6 +2,13 @@
 
 This exercise is independent. We'll experience ease of installing Open Policy Agent (OPA) from Rancher cluster tools and quickly setup the constaint to allow only specific registries for deployment. 
 
+# //Cluster Tools 에서 OPA 설치하고 설정, Constraints 으로 허용되는 Public/Private Registry 를 정의하고, 나머지는 거부되도록 설정
+아래의 Repository 주소만 허용도록 설정하는 OPA 정책임.
+repos:
+  - harbor.20.204.20.251.sslip.io
+  - docker.io
+  - registry.gitlab.com
+
 ###### Usecase: At a time development and operations may need seperate/multiple container registries and it imposes security challenges. The Open Policy Agent Gatekeeper project can be leveraged to help enforce policies and strengthen governance in your Kubernetes environment. Rancher provides OPA Gatekeeper straight from the Cluster Tools to install and setup policies within few clicks. 
 
 
