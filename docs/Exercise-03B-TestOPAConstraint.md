@@ -2,6 +2,7 @@
 
 This exercise will continue from the previous Exercise 3A. We'll deploy a sample application rancher's hello-world from Harbor registry and ACR respectively to validate OPA Constraint.  
 
+# //nginx 는 white registry 에 존재하지 않기 때문에, deployment 가 안되며, harbor.20.204.20.251.sslip.io 는 white 리스트에 등록이 되어 있기 때문에, hello-world deployment 정상적으로 배포됨
 
 
 ###### Usecase: It's now time to test and ensure that policies are working as we are expecting! 
