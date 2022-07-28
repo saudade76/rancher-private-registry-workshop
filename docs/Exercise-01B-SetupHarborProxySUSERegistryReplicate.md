@@ -2,6 +2,8 @@
 
 In this exercise, we'll continue from the previous step of Lab 1 A. We'll create a new registry endpoint of SUSE Registry in Harbor. 
 
+# //SUSE Public Repository 에서 Image 가져오고, Scan 해보는 실습
+
 ###### Usecase: Build the same confidence as enterprise demands by using tested and certified ready-to-go for enterprise use base container images. SUSE managed images are up-to-date with the latest security patches and features/functionalities are consistent with the base OS releases. Replicating images from SUSE Registry to the private registry will ensure that developers are using images from a single source (Harbor in this case) which is secured and access controls are provided as per the organisation's policy. 
 
 Reference: https://registry.suse.com/
